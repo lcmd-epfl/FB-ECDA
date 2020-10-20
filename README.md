@@ -32,7 +32,7 @@ With these input files, we can perform FB-ECDA following a straightforward manne
 `python FB-ECDA.py 13.log 169.log 13-169.log 13.pun 169.pun 13-169.pun 152 AO.txt frag.txt`     
 where 152 is the index of HOMO for the molecule in the input file    
 
-The output shows each fragment-fragment electronic coupling term (V_frag1-frag2) and the total electronic coupling (V_tot):
+The output shows each fragment-fragment electronic coupling term (V_frag1-frag2) and the total electronic coupling (V_tot) in eV:
 
 `V_core-core: 0.00043440836750638194`  
 `V_core-arm: -0.0001615526719718881`  
