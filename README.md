@@ -1,4 +1,8 @@
-# FB-ECDA [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4121975.svg)](https://doi.org/10.5281/zenodo.4121975)
+# FB-ECDA [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.4121975-blue)](https://doi.org/10.5281/zenodo.4121975)
+<!---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4121975.svg)](https://doi.org/10.5281/zenodo.4121975)
+[![DOI](https://zenodo.org/badge/305654376.svg)](https://zenodo.org/badge/latestdoi/305654376)
+-->
 
 ## Introduction
 **FB-ECDA** is a decomposition analysis tool for electronic coupling term in charge transfer process of organic semiconductors. Please cite
